@@ -1,0 +1,7 @@
+Notification holder, for all notifications (good for lockscreen and notification center maybe? Different sorts of displays needed though).
+Would have different groups, handled by names of groups (app display names for the groups, or maybe bundle identifiers).
+This way the view could be resized as needed.
+
+Banner notifications handler
+Time outs needed.
+

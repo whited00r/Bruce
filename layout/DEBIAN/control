@@ -1,0 +1,9 @@
+Package: com.whited00r.bruce
+Name: Bruce
+Depends: mobilesubstrate
+Version: 0.0.1-25
+Architecture: iphoneos-arm
+Description: Bruce is a good strong name. Also the name of the Hulk. Bruce Banner. Banner Notifications. Get it?
+Maintainer: Whited00r
+Author: Whited00r
+Section: Tweaks
